@@ -1,4 +1,4 @@
-# Predictor de Elecciones vía Facebook
+# Predictor de Elecciones vía Facebook (2017)
 
 Analizamos los comentarios de Facebook de los candidatos de las elecciones presidenciales chilenas del mandato 2018-2022 para predecir el resultado. Tuvimos que aplicar nuestros conocimientos del lenguaje Python para crear un programa que pudiera utilizar el SDK de Facebook para obtener los comentarios de candidatos a la presidencia. Luego, estos comentarios eran procesados para determinar si es que estos eran buenos o malos. Así pudimos hacer una predicción de la probabilidad de ser electos. 
 
